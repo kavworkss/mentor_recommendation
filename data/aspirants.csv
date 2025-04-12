@@ -1,0 +1,11 @@
+AspirantID,Name,PreferredSubjects,TargetCollegeTier,PrepLevel,LearningStyle
+1,Rohan Sharma,"Legal Aptitude,Logical Reasoning",Top NLU,Intermediate,Visual
+2,Priya Singh,"English,GK",Tier 2 NLU,Beginner,Auditory
+3,Amit Kumar,"Quantitative Techniques,Legal Aptitude",Private College,Advanced,Reading/Writing
+4,Sneha Patel,"Logical Reasoning,English",Top NLU,Intermediate,Kinesthetic
+5,Vikram Das,"GK,Quantitative Techniques",Tier 2 NLU,Beginner,Visual
+6,Anjali Mehta,"Legal Aptitude,English",Top NLU,Advanced,Auditory
+7,Manish Joshi,"Logical Reasoning,GK",Private College,Intermediate,Reading/Writing
+8,Divya Kapoor,"English,Quantitative Techniques",Top NLU,Beginner,Kinesthetic
+9,Arjun Verma,"Legal Aptitude,GK",Tier 2 NLU,Advanced,Visual
+10,Neha Sinha,"Logical Reasoning,English",Private College,Beginner,Auditory
