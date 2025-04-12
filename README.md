@@ -54,37 +54,6 @@ pip install -r requirements.txt
 *Running the App
 Use the following command to start the Streamlit application:
 streamlit run app.py
-*Sample Data Format
-aspirants.csv
-AspirantID
-
-Name
-
-PreferredSubjects
-
-TargetCollegeTier
-
-PrepLevel
-
-LearningStyle
-
-mentors.csv
-MentorID
-
-Name
-
-SubjectExpertise
-
-TeachingStrengths
-
-AlmaMaterTier
-
-Experience
-
-Availability
-
-Quote
-
 
 #Architecture Overview
 *Streamlit for the web interface
